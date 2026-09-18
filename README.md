@@ -52,7 +52,7 @@ A highly optimized time-series database architecture tailored for financial tick
 
 ### 🌉 `mt5-websocket-bridge`
 *Status: Planned some technical outlines.*
-Designed to be the connecting bridge for MetaTrader 5, utilizing WebSocket protocols to feed real-time market data directly into the ecosystem.
+Designed to be the connecting bridge for MetaTrader 5, utilizing WebSocket protocols to feed real-time market data directly into the ecosystem. My team and I are running MT5 in headless mode in a Linux VPS.
 
 ---
 
