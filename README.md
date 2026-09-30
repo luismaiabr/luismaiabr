@@ -23,7 +23,7 @@ Atualmente, estou a **dois semestres de concluir minha graduação em Engenharia
 
 > [!TIP]
 > ### 🧠 Curiosidades
-> 1. Este README foi gerado com base em um repositório privado **"second-brain"** meu, onde descrevo meu conhecimento, valores e perfil de forma altamente modular!
+> 1. Este README foi gerado com base em um repositório privado **"second-brain"** meu, onde descrevo meu conhecimento, valores e perfil de forma manual e altamente modular!
 > 2. Você sabia que é possível hospedar seu próprio Bitwarden legítimo de graça?
 
 > [!NOTE]
