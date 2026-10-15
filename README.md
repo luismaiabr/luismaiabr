@@ -5,7 +5,7 @@
 </div>
 
 <details open>
-<summary><b>🇧🇷 Português</b></summary>
+<summary><img src="https://flagcdn.com/24x18/br.png" alt="Brasil" width="20" height="15" /> <b>Português</b></summary>
 
 <br>
 
@@ -76,7 +76,7 @@ Projetado para ser a ponte de conexão para o MetaTrader 5, utilizando protocolo
 </details>
 
 <details>
-<summary><b>🇺🇸 English</b></summary>
+<summary><img src="https://flagcdn.com/24x18/us.png" alt="USA" width="20" height="15" /> <b>English</b></summary>
 
 <br>
 
