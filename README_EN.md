@@ -1,9 +1,14 @@
 <div align="center">
-
-[![pt-BR](https://img.shields.io/badge/🇧🇷_Português-009739?style=for-the-badge)](./README.md)
-[![en](https://img.shields.io/badge/🇺🇸_English-3C3B6E?style=for-the-badge)](./README_EN.md)
-
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇧🇷_Português-009739?style=for-the-badge" alt="Português" />
+  </a>
+  &nbsp;
+  <a href="./README_EN.md">
+    <img src="https://img.shields.io/badge/🇺🇸_English-3C3B6E?style=for-the-badge" alt="English" />
+  </a>
 </div>
+
+<br>
 
 <div align="center">
   <h1>Hi there, I'm Luis! 👋</h1>
