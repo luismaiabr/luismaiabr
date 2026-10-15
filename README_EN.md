@@ -21,13 +21,11 @@ I am driven by acquiring technical depth in the fields I work in—such as **sof
 
 Currently, I am **two semesters away from completing my Software Engineering degree at the Federal University of Ceará (UFC)**.
 
-> [!TIP]
 > ### 🧠 Fun Facts
 > 1. This very README was generated based on a private **"second-brain"** repository of mine, where I describe my knowledge, values, and profile in depth in a highly modular manner!
 > 2. Did you know you can host your own, legitimate Bitwarden for free?
 
-> [!NOTE]
-> ### My Core Values
+> ### 🧭 My Core Values
 > - 🎨 **Creativity**: Approaching problems with an open mind and innovative solutions.
 > - ⭐ **Excellence**: Delivering high-quality, robust, and reliable systems.
 > - ⚖️ **Ethics**: Building trust, transparency, and doing the right thing.
